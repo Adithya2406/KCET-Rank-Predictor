@@ -87,4 +87,4 @@ This project is open-source and available under the MIT License.
 
 For any queries or feedback, please open an issue on the repository.
 
-https://github.com/Adithya2406/KCET-Rank-Predictor/blob/main/KCET%20Rank%20Predictor.png
+![image](https://github.com/Adithya2406/KCET-Rank-Predictor/blob/main/KCET%20Rank%20Predictor.png)
